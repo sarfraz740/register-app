@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy Learning. See You Again. sarfraz </h1>
+   <h1> Juma mubarak </h1>
    
 </form>
